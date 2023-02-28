@@ -191,7 +191,7 @@ are available at
 />
 <img
   height="180em"
-  src="https://github-readme-stats-github-readme-stats-team.vercel.app/api/top-langs/?username=sebasbarrera&layout=compact&langs_count=7&theme=dracula"
+  src="https://github-readme-stats-github-readme-stats-team.vercel.app/api/top-langs/?username=sebasbarrera&layout=compact&langs_count=5&theme=dracula"
 />
 
 ### Get in touch !
