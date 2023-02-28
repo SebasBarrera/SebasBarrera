@@ -186,6 +186,8 @@ are available at
   </a>
 </p>
 <h3 align="left">About my git:</h3>
+
+<img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
 <img
   height="180em"
   src="https://github-readme-stats-github-readme-stats-team.vercel.app/api?username=sebasbarrera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
