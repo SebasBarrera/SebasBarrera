@@ -187,7 +187,7 @@
 
 <img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
 <img
-  height="180em"
+  height="150em"
   src="https://github-readme-stats-github-readme-stats-team.vercel.app/api?username=sebasbarrera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,prs,contribs"
 />
 <img
