@@ -9,13 +9,11 @@
   impact.
 </h3>
 
-- 🌱 I’m currently learning **Google Cloud Platform** - 👨‍💻 All of my projects
-are available at
-**[My git repository](https://github.com/SebasBarrera?tab=repositories)**
+- 🌱 I’m currently learning **Google Cloud Platform**
+- 👨‍💻 All of my projectsare available at **[My git repository](https://github.com/SebasBarrera?tab=repositories)**
 - 💬 Ask me about **Spring Boot** 
 - 📫 How to reach me **js.barrerap@gmail-com**
-- 📄 Know about my experiences
-**[My CV](https://drive.google.com/file/d/1dvbuns69L8h5b6mJOpKmh3NBN9E1jcgR/view?usp=sharing)**
+- 📄 Know about my experiences **[My CV](https://drive.google.com/file/d/1dvbuns69L8h5b6mJOpKmh3NBN9E1jcgR/view?usp=sharing)**
 
 
 <h3 align="left">Languages and Tools:</h3>
