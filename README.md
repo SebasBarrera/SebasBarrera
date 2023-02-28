@@ -188,11 +188,11 @@
 <img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
 <img
   height="180em"
-  src="https://github-readme-stats-github-readme-stats-team.vercel.app/api?username=sebasbarrera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats-github-readme-stats-team.vercel.app/api?username=sebasbarrera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,prs,contribs"
 />
 <img
-  height="180em"
-  src="https://github-readme-stats-github-readme-stats-team.vercel.app/api/top-langs/?username=sebasbarrera&layout=compact&langs_count=5&theme=dracula"
+  height="300em"
+  src="https://github-readme-stats-github-readme-stats-team.vercel.app/api/top-langs/?username=sebasbarrera&langs_count=5&theme=dracula"
 />
 
 ### Get in touch !
