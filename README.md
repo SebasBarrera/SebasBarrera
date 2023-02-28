@@ -7,6 +7,7 @@
   and ingenuity. I am excited to collaborate with other professionals in the
   field and contribute my skills to innovative projects that make a meaningful
   impact.
+  <br/><br/><br/>
 </h3>
 
 - 🌱 I’m currently learning **Google Cloud Platform**
@@ -15,7 +16,7 @@
 - 📫 How to reach me **js.barrerap@gmail-com**
 - 📄 Know about my experiences **[My CV](https://drive.google.com/file/d/1dvbuns69L8h5b6mJOpKmh3NBN9E1jcgR/view?usp=sharing)**
 
-
+<br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -183,7 +184,9 @@
     />
   </a>
 </p>
-<h3 align="left">About my git:</h3>
+
+
+<h3 align="left"><br/><br/>About my git:<br/></h3>
 
 <img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
 <img
@@ -194,6 +197,8 @@
   height="300em"
   src="https://github-readme-stats-github-readme-stats-team.vercel.app/api/top-langs/?username=sebasbarrera&langs_count=5&theme=dracula"
 />
+
+
 
 ### Get in touch !
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juansbarrera/)
